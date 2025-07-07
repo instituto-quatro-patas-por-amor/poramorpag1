@@ -56,119 +56,119 @@ function formatarMoeda(valor) {
 if (document.getElementById("barra")) {
     const arrayDados = [{
             nome: "Marcos Aurélio",
-            image: "public/images/8.jpg.webp",
+            image: "public/images/Marcos Aurélio.png",
             apoiador: 1,
             doado: 50,
             coracoes: 1
         },
         {
             nome: "Juliana Aparecida",
-            image: "public/images/1.jpg.webp",
+            image: "public/images/Juliana Aparecida.png",
             apoiador: 1,
             doado: 32.50,
             coracoes: 0
         },
         {
             nome: "Maria Eduarda",
-            image: "public/images/7.jpg.webp",
+            image: "public/images/Maria Eduarda.png",
             apoiador: 1,
             doado: 100,
             coracoes: 1
         },
         {
             nome: "Lorena Fonseca",
-            image: "public/images/29fde8757de0d1cde79f7271affaebf6-e1699138044607.jpg.webp",
+            image: "public/images/Lorena Fonseca.png",
             apoiador: 1,
             doado: 113.20,
             coracoes: 0
         },
         {
             nome: "Lucas Fernandes",
-            image: "public/images/4.jpg.webp",
+            image: "public/images/Lucas Fernandes.png",
             apoiador: 1,
             doado: 140.80,
             coracoes: 1
         },
         {
             nome: "Taina Silva",
-            image: "public/images/Design-sem-nome-16.jpg.webp",
+            image: "public/images/Taina Silva.png",
             apoiador: 1,
             doado: 100,
             coracoes: 1
         },
         {
             nome: "Fernanda Oliveira",
-            image: "public/images/14.jpg.webp",
+            image: "public/images/Fernanda Oliveira.png",
             apoiador: 1,
             doado: 210,
             coracoes: 0
         },
         {
             nome: "Marcos Paulo",
-            image: "public/images/1b983d2e625fdae0231621bf79757043-e1699138160887.jpg.webp",
+            image: "public/images/Marcos Paulo.png",
             apoiador: 1,
             doado: 55,
             coracoes: 1
         },
         {
             nome: "João Castro",
-            image: "public/images/741c4f79b472f094b436fb5887129b84-1.jpg.webp",
+            image: "public/images/João Castro.png",
             apoiador: 1,
             doado: 62,
             coracoes: 0
         },
         {
             nome: "Julio César",
-            image: "public/images/8.jpg.webp",
+            image: "public/images/Julio César.png",
             apoiador: 1,
             doado: 108,
             coracoes: 1
         },
         {
             nome: "Marcela de Moraes",
-            image: "public/images/1.jpg.webp",
+            image: "ppublic/images/Marcela de Moraes.png",
             apoiador: 1,
             doado: 60,
             coracoes: 0
         },
         {
             nome: "Roberta de Souza",
-            image: "public/images/7.jpg.webp",
+            image: "public/images/Roberta de Souza.png",
             apoiador: 1,
             doado: 150,
             coracoes: 1
         },
         {
             nome: "Raquel Oliveira",
-            image: "public/images/29fde8757de0d1cde79f7271affaebf6-e1699138044607.jpg.webp",
+            image: "public/images/Raquel Oliveira.png",
             apoiador: 1,
             doado: 256,
             coracoes: 0
         },
         {
             nome: "Marcelo Rodrigues",
-            image: "public/images/4.jpg.webp",
+            image: "public/images/Marcelo Rodrigues.png",
             apoiador: 1,
             doado: 155,
             coracoes: 1
         },
         {
             nome: "Taís Costa",
-            image: "public/images/Design-sem-nome-16.jpg.webp",
+            image: "public/images/Taís Costa.png",
             apoiador: 1,
             doado: 144,
             coracoes: 1
         },
         {
             nome: "Manuela Ribeiro",
-            image: "public/images/14.jpg.webp",
+            image: "public/images/Manuela Ribeiro.png",
             apoiador: 1,
             doado: 105,
             coracoes: 0
         },
         {
             nome: "Eduardo dos Santos",
-            image: "public/images/1b983d2e625fdae0231621bf79757043-e1699138160887.jpg.webp",
+            image: "public/images/Eduardo dos Santos.png",
             apoiador: 1,
             doado: 40.50,
             coracoes: 1
